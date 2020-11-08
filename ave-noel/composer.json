@@ -1,0 +1,19 @@
+{
+    "name": "madde24/ave-noel",
+    "type": "project",
+    "authors": [
+        {
+            "name": "madde24",
+            "email": "madis1998@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.1"
+    }
+}
